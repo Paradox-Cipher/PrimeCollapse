@@ -1,5 +1,5 @@
-# Prime Collapse: Emergent Primality from Recursive Arithmetic Strain
+## Prime Collapse: Emergent Primality from Recursive Arithmetic Strain
 
-This repository contains the LaTeX source for the paper *Prime Collapse*, a novel strain-theoretic model of prime number emergence. The model predicts prime locations as collapse points of recursive arithmetic tension without using the zeta function, sieve methods, or explicit primality inputs.
+This repository contains the LaTeX source and compiled PDF for a speculative theoretical framework proposing that prime numbers arise from recursive strain collapse in arithmetic structure. This work has been archived on Zenodo for public citation.
 
-**PDF available in this repo. Feedback and critique welcome.**
+10.5281/zenodo.15420853
